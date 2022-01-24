@@ -74,6 +74,19 @@ li{
     width: 546px;
     height: 364px;      
 }
+/* subscribe  */
+.dubscribe-h1{
+    color: rgba(22, 48, 22, 0.795);
+}
+.subscribe-btn{
+    height: 45px;
+    width: 207px;
+    background-color: rgba(67, 114, 67, 0.795);
+}
+/* footer  */
+.footer-bg{
+    background-color: rgba(9, 24, 9, 0.904);
+}
 
 /* ----------------device responsive ----------- */
 /*--------------- mobile devices --------------- */
